@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Hamdan Sethi",
+    "identifier": "Tech Blogger",
+    "imageUrl": ""
+  },
+  {
+    "id": 2,
+    "name": "Sara Ali",
+    "identifier": "Health Writer",
+    "imageUrl": ""
+  },
+  {
+    "id": 3,
+    "name": "Ali Raza",
+    "identifier": "Finance Guru",
+    "imageUrl": ""
+  },
+  {
+    "id": 4,
+    "name": "Amna Khan",
+    "identifier": "Lifestyle Expert",
+    "imageUrl": ""
+  },
+  {
+    "id": 5,
+    "name": "John Doe",
+    "identifier": "AI Researcher",
+    "imageUrl": ""
+  },
+  {
+    "id": 6,
+    "name": "Fatima Zahra",
+    "identifier": "Food Blogger",
+    "imageUrl": ""
+  },
+  {
+    "id": 7,
+    "name": "Ahmad Bilal",
+    "identifier": "History Enthusiast",
+    "imageUrl": ""
+  },
+  {
+    "id": 8,
+    "name": "Maria Khan",
+    "identifier": "Travel Writer",
+    "imageUrl": ""
+  }
+]

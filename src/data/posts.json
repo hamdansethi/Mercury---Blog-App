@@ -1,0 +1,164 @@
+[
+  {
+    "id": 1,
+    "title": "First Blog Post",
+    "excerpt": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Totam ex temporibus nostrum nemo tenetur quisquam sunt molestiae. Repudiandae commodi molestiae porro? Deserunt fugiat laborum voluptates in numquam voluptate distinctio inventore. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Totam ex temporibus nostrum nemo tenetur quisquam sunt molestiae. Repudiandae commodi molestiae porro? Deserunt fugiat laborum voluptates in numquam voluptate distinctio inventore.",
+    "content": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Totam ex temporibus nostrum nemo tenetur quisquam sunt molestiae. Repudiandae commodi molestiae porro? Deserunt fugiat laborum voluptates in numquam voluptate distinctio inventore. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Totam ex temporibus nostrum nemo tenetur quisquam sunt molestiae. Repudiandae commodi molestiae porro? Deserunt fugiat laborum voluptates in numquam voluptate distinctio inventore. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Totam ex temporibus nostrum nemo tenetur quisquam sunt molestiae. Repudiandae commodi molestiae porro? Deserunt fugiat laborum voluptates in numquam voluptate distinctio inventore. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Totam ex temporibus nostrum nemo tenetur quisquam sunt molestiae. Repudiandae commodi molestiae porro? Deserunt fugiat laborum voluptates in numquam voluptate distinctio inventore. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Totam ex temporibus nostrum nemo tenetur quisquam sunt molestiae. Repudiandae commodi molestiae porro? Deserunt fugiat laborum voluptates in numquam voluptate distinctio inventore. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Totam ex temporibus nostrum nemo tenetur quisquam sunt molestiae. Repudiandae commodi molestiae porro? Deserunt fugiat laborum voluptates in numquam voluptate distinctio inventore.",
+    "category": "Fiction",
+    "author": "Hamdan Sethi",
+    "date": "2025-06-06",
+    "thumbnailUrl": ""
+  },
+  {
+    "id": 2,
+    "title": "Learning JavaScript",
+    "excerpt": "JavaScript is a versatile language. In this post, we explore its features.",
+    "author": "Bob",
+    "date": "2025-06-05",
+    "thumbnailUrl": ""
+  },
+  {
+    "id": 3,
+    "title": "CSS Tricks",
+    "excerpt": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Totam ex temporibus nostrum nemo tenetur quisquam sunt molestiae. Repudiandae commodi molestiae porro? Deserunt fugiat laborum voluptates in numquam voluptate distinctio inventore.",
+    "author": "Carol",
+    "date": "2025-06-04",
+    "thumbnailUrl": ""
+  },
+  {
+    "id": 4,
+    "title": "Understanding Flexbox",
+    "excerpt": "Flexbox is a powerful layout module in CSS. Learn how to use it effectively.",
+    "author": "Dan",
+    "date": "2025-06-03",
+    "thumbnailUrl": ""
+  },
+  {
+    "id": 5,
+    "title": "Intro to TypeScript",
+    "excerpt": "TypeScript adds types to JavaScript. Here’s why you should use it.",
+    "author": "Eve",
+    "date": "2025-06-02",
+    "thumbnailUrl": ""
+  },
+  {
+    "id": 6,
+    "title": "Handling Forms in React",
+    "excerpt": "A beginner’s guide to managing form data in React apps.",
+    "author": "Frank",
+    "date": "2025-06-01",
+    "thumbnailUrl": ""
+  },
+  {
+    "id": 7,
+    "title": "State vs Props",
+    "excerpt": "A clear explanation of the difference between state and props in React.",
+    "author": "Grace",
+    "date": "2025-05-31",
+    "thumbnailUrl": ""
+  },
+  {
+    "id": 8,
+    "title": "React Hooks Deep Dive",
+    "excerpt": "Let’s explore useState, useEffect, and other useful hooks in React.",
+    "author": "Hank",
+    "date": "2025-05-30",
+    "thumbnailUrl": ""
+  },
+  {
+    "id": 9,
+    "title": "Building Reusable Components",
+    "excerpt": "Learn how to write clean, reusable, and testable React components.",
+    "author": "Ivy",
+    "date": "2025-05-29",
+    "thumbnailUrl": ""
+  },
+  {
+    "id": 10,
+    "title": "React Router Basics",
+    "excerpt": "Client-side routing in React with react-router-dom.",
+    "author": "Jake",
+    "date": "2025-05-28",
+    "thumbnailUrl": ""
+  },
+  {
+    "id": 11,
+    "title": "Debugging JavaScript",
+    "excerpt": "Techniques and tools for debugging JavaScript effectively.",
+    "author": "Karen",
+    "date": "2025-05-27",
+    "thumbnailUrl": ""
+  },
+  {
+    "id": 12,
+    "title": "Asynchronous JavaScript",
+    "excerpt": "Learn how Promises, async/await, and callbacks work in JavaScript.",
+    "author": "Leo",
+    "date": "2025-05-26",
+    "thumbnailUrl": ""
+  },
+  {
+    "id": 13,
+    "title": "Web Accessibility Basics",
+    "excerpt": "Make your website usable for everyone, including people with disabilities.",
+    "author": "Mona",
+    "date": "2025-05-25",
+    "thumbnailUrl": ""
+  },
+  {
+    "id": 14,
+    "title": "Responsive Design Principles",
+    "excerpt": "How to make your website look great on all devices.",
+    "author": "Nate",
+    "date": "2025-05-24",
+    "thumbnailUrl": ""
+  },
+  {
+    "id": 15,
+    "title": "Deploying React Apps",
+    "excerpt": "Different ways to deploy your React app to the web.",
+    "author": "Olivia",
+    "date": "2025-05-23",
+    "thumbnailUrl": ""
+  },
+  {
+    "id": 16,
+    "title": "Using Axios for API Calls",
+    "excerpt": "Fetch and send data easily in your React apps using Axios.",
+    "author": "Paul",
+    "date": "2025-05-22",
+    "thumbnailUrl": ""
+  },
+  {
+    "id": 17,
+    "title": "Intro to Redux",
+    "excerpt": "Manage global state in React applications using Redux.",
+    "author": "Quinn",
+    "date": "2025-05-21",
+    "thumbnailUrl": ""
+  },
+  {
+    "id": 18,
+    "title": "Next.js for Beginners",
+    "excerpt": "Get started with server-side rendering using Next.js.",
+    "author": "Rachel",
+    "date": "2025-05-20",
+    "thumbnailUrl": ""
+  },
+  {
+    "id": 19,
+    "title": "Testing in React",
+    "excerpt": "How to write unit and integration tests in React with Jest and Testing Library.",
+    "author": "Steve",
+    "date": "2025-05-19",
+    "thumbnailUrl": ""
+  },
+  {
+    "id": 20,
+    "title": "Styled Components vs CSS Modules",
+    "excerpt": "Compare two popular approaches to styling in React.",
+    "author": "Tina",
+    "date": "2025-05-18",
+    "thumbnailUrl": ""
+  }
+]

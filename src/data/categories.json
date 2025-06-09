@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "title": "Fitness",
+    "thumbnailUrl": ""
+  },
+  {
+    "id": 2,
+    "title": "Technology",
+    "thumbnailUrl": ""
+  },
+  {
+    "id": 3,
+    "title": "Travel",
+    "thumbnailUrl": ""
+  },
+  {
+    "id": 4,
+    "title": "Food",
+    "thumbnailUrl": ""
+  },
+  {
+    "id": 5,
+    "title": "Fashion",
+    "thumbnailUrl": ""
+  },
+  {
+    "id": 6,
+    "title": "Health",
+    "thumbnailUrl": ""
+  },
+  {
+    "id": 7,
+    "title": "Education",
+    "thumbnailUrl": ""
+  },
+  {
+    "id": 8,
+    "title": "Business",
+    "thumbnailUrl": ""
+  },
+  {
+    "id": 9,
+    "title": "Entertainment",
+    "thumbnailUrl": ""
+  },
+  {
+    "id": 10,
+    "title": "Science",
+    "thumbnailUrl": ""
+  },
+  {
+    "id": 11,
+    "title": "Gaming",
+    "thumbnailUrl": ""
+  },
+  {
+    "id": 12,
+    "title": "Lifestyle",
+    "thumbnailUrl": ""
+  },
+  {
+    "id": 13,
+    "title": "Parenting",
+    "thumbnailUrl": ""
+  },
+  {
+    "id": 14,
+    "title": "Finance",
+    "thumbnailUrl": ""
+  },
+  {
+    "id": 15,
+    "title": "Politics",
+    "thumbnailUrl": ""
+  },
+  {
+    "id": 16,
+    "title": "Environment",
+    "thumbnailUrl": ""
+  },
+  {
+    "id": 17,
+    "title": "Photography",
+    "thumbnailUrl": ""
+  },
+  {
+    "id": 18,
+    "title": "DIY & Crafts",
+    "thumbnailUrl": ""
+  },
+  {
+    "id": 19,
+    "title": "Spirituality",
+    "thumbnailUrl": ""
+  },
+  {
+    "id": 20,
+    "title": "Books",
+    "thumbnailUrl": ""
+  }
+]

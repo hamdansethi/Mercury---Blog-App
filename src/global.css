@@ -1,0 +1,19 @@
+.card-hover-scale {
+  transition: transform 0.3s ease;
+}
+
+.card-hover-scale:hover {
+  transform: scale(1.05);
+  z-index: 10; /* to keep it above neighbors */
+  box-shadow: 0 10px 20px rgba(0,0,0,0.2); /* optional: bigger shadow */
+}
+
+body {
+  background-image: url('/assets/background.png'); /* or relative path */
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: #222831; /* fallback color */
+}
+
